@@ -1,0 +1,10 @@
+__pycache__
+bin
+include
+lib
+pip-selfcheck.json
+pyvenv.cfg
+
+credentials.json
+data.json
+baseline_values.json
